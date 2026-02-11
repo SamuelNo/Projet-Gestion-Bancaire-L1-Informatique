@@ -1,0 +1,6 @@
+CPT*Compte A
+CPT*Compte B
+BUD*sorties*200*Compte A
+BUD*sport*500*Compte A
+OPE*01/10/2023*travail*Compte A*2000*VIR*True*aucun
+OPE*01/09/2023*travail*Compte B*1000*VIR*True*aucun

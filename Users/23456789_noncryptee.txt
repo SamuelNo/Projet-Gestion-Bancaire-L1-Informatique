@@ -1,0 +1,17 @@
+CPT*Compte A
+CPT*Compte B
+BUD*sorties*200*Compte A
+BUD*sport*500*Compte A
+BUD*alimentation*700*Compte B
+BUD*divers*1000*Compte B
+OPE*01/11/2023*cinema*Compte A*-30.50*VIR*True*sorties
+OPE*01/11/2023*manege*Compte A*-15.50*CB*True*sorties
+OPE*01/01/2022*ballon*Compte A*-10.90*CB*False*sport
+OPE*01/01/2022*maillot*Compte A*-135.70*CHE*False*sport
+OPE*01/01/2023*restaurant*Compte B*-69.20*CB*False*alimentation
+OPE*01/01/2023*course*Compte B*-140.50*CHE*False*alimentation
+OPE*01/11/2022*macbook*Compte B*-1200*VIR*True*divers
+OPE*01/11/2022*console*Compte B*-500*CB*True*divers
+OPE*04/04/2024*salaire*Compte B*2000*CHE*True*aucun
+OPE*11/12/2023*test3*Compte A*700*VIR*True*aucun*Samuel*Compte A
+OPE*04/04/2024*projet*Compte B*100*VIR*True*aucun*Samuel*Compte C

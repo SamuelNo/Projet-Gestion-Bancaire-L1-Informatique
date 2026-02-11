@@ -1,0 +1,18 @@
+#Couleurs de l'application
+
+DARK_BLUE='#0d1b2a'
+LIGHT_BLUE='#007AFF'
+WHITE='#f2f2f2'
+LIGHT_BLUE2='#0084FF'
+GREY='#212d40'
+
+#Polices de l'applicatoin
+FONT="Helvetica Neue"
+NORMAL_SIZE_FONT=''
+TITILE_SIZE_FONT=''
+BUTTON_SIZE_FONT=''
+
+#Taille des fenêtres
+BIG_SIZE_WINDOWS='900x600'
+MEDIUM_SIZE_WINDOWS='900x400'
+NORMAL_SIZE_WINDOWS='576x346'
